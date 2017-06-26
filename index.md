@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## What is ErjaBot?
 
-You can use the [editor on GitHub](https://github.com/tahtaciburak/erjabot.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ErjaBot is a bot lives in a RaspberryPi and it's able to meet you via [Twitter Account of Erjabot](twitter.com/erjabot).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main aim of this project is creating a bot that recognize followers of an account on Twitter. This bot is currently super early bird stage. I will add new features.But now this bot just learn who is following them and creating a well-detailed database about followers.This database will be public in later times. To contribute please [follow](twitter.com/erjabot) the ErjaBot
+### Packages that I've used
 
-### Markdown
+<code>face_recognition</code> : To encode faces and learn who they are.<p>
+<code>tweepy</code> : Connecting to TwitterAPI and retrieve followers.I've found a trick while developing to see that please go [here](https://github.com/tahtaciburak/tweepy-high-resolution).<p>
+<code>schedule</code> : To keep database updated, and run learning algorithms periodically.
+### Contribute
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- This bot needs a logo
+- This bot needs more friends to meet
+- This bot needs a physical body to live (such as a robot chassis)
+- This bot needs to be more intelligent
+- And also this bot wants to be with you :)
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tahtaciburak/erjabot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are interested in this project please feel free to contact me.
+tahtaciburak@gmail.com
