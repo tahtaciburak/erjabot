@@ -1,8 +1,8 @@
 ## What is ErjaBot?
 
-ErjaBot is a bot lives in a RaspberryPi and it's able to meet you via [Twitter Account of Erjabot](twitter.com/erjabot).
+ErjaBot is a bot lives in a RaspberryPi and it's able to meet you via [Twitter Account of Erjabot](http://www.twitter.com/erjabot).
 
-The main aim of this project is creating a bot that recognize followers of an account on Twitter. This bot is currently super early bird stage. I will add new features.But now this bot just learn who is following them and creating a well-detailed database about followers.This database will be public in later times. To contribute please [follow](twitter.com/erjabot) the ErjaBot
+The main aim of this project is creating a bot that recognize followers of an account on Twitter. This bot is currently super early bird stage. I will add new features.But now this bot just learn who is following them and creating a well-detailed database about followers.This database will be public in later times. To contribute please [follow](http://www.twitter.com/erjabot) the ErjaBot
 ## Packages that I've used
 
 <code>face_recognition</code> : To encode faces and learn who they are.</br>
